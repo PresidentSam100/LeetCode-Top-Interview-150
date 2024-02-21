@@ -1,5 +1,6 @@
 /**
  * Approach: Loop through string and compare
+ * Link: https://leetcode.com/problems/is-subsequence/description/
  * n = length of string t
  * Time Complexity: O(n)
  * Space Complexity: O(1)
